@@ -2292,6 +2292,9 @@ a {
 .cid-s48P1Icc8J .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-sbwL9TFYdb {
+  background-image: url("../../../assets/images/background9.jpg");
+}
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
@@ -2633,6 +2636,17 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-sbwKZQonTJ {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sbwKZQonTJ .mbr-section-title {
+  text-align: left;
+}
+.cid-sbwKZQonTJ .mbr-section-subtitle {
+  text-align: left;
 }
 .cid-s48P1Icc8J {
   padding-top: 2rem;
